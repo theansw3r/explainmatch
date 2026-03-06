@@ -1,1 +1,4 @@
-# FastAPI entrypoint (placeholder)
+fastapi
+uvicorn[standard]
+neo4j
+pydantic
